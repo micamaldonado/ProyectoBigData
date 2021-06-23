@@ -52,7 +52,7 @@ _Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuen
 
 _La herramienta utilizada para el scraping de una página web fue:_
 
-* [Google Colaboratory]  (https://colab.research.google.com/)
+* [Google Colaboratory](https://colab.research.google.com/)
 * Lenguaje de Programación: [Python](https://www.python.org/)
 
 # Autores
