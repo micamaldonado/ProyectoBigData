@@ -5,7 +5,7 @@ El objetivo del proyecto es trabajar con grandes volúmenes de datos.
 
 ## Contenido del Proyecto 📑
 
-El trabajo práctico cuenta con 2 componentes.
+El trabajo práctico cuenta con 2 partes. Este Proyecto Github contiene una sola rama en la cual se encuentran disponibles todos los archivos necesarios para todas las partes que se mencionan a continuación.
 
 #### Componente 1
 
@@ -19,12 +19,12 @@ Realización del análisis de sentimientos de los tweets que han sido descargado
 
 _Las siguientes instrucciones permitirán que puedas acceder sin incovenientes a todos los componentes del proyecto en tu máquina local._
 
-## Requisitos
+### Requisitos 📋
 
 Para el proyecto son necesarios los siguientes:
  
-- Una cuenta como desarrollador en Twitter para obtener las credenciales (API Twitter) 
-- Un servicio cloud para los códigos, por ende no se necesita de instalación (Google Colaboratory)
+- Una cuenta como desarrollador en Twitter para obtener las credenciales [(API Twitter)](https://developer.twitter.com/en) 
+- Un servicio cloud para los códigos, por ende no se necesita de instalación [(Google Colaboratory)](https://colab.research.google.com/)
 
  ### Clonación 👥
 Una vez creada la cuenta de github se deberá clonar el proyecto utlizando la URL y el comando:
@@ -36,7 +36,7 @@ git clone (url)
 ### Visualización 🧐
 -------------------------------------------
           
-## Lenguaje de Programación
+## Lenguaje de Programación 🖥️
   
   `Python` 
   
@@ -55,18 +55,18 @@ _La herramienta utilizada para el scraping de una página web fue:_
 * [Google Colaboratory](https://colab.research.google.com/)
 * Lenguaje de Programación: [Python](https://www.python.org/)
 
-# Autores
+# Autores 🖋️👥
 * *Zileidy Argüello Barreto* 
 * *Micaela Maldonado Otazo* 
 
 Estudiantes del 3er. año de la carrera Tecnologías de la Información Empresarial (UPA)
 
-# Conclusión
+# Conclusión 🏁
 
  ## Observaciones 🖋️❗
 Fecha de creación del código: 23/06/2021
 
 Es posible que algunas características cambien conforme pasa el tiempo.
 
-## Gracias por mirar este proyecto 📢🤓🎁
+## Gracias por mirar este proyecto 📢🤓
 
