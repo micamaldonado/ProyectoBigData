@@ -35,19 +35,27 @@ git clone (url)
 
 ### Visualización 🧐
 -------------------------------------------
+
+### Instalación 🔧
+
+Se utiliza el siguiente comando en caso de que no se tenga alguna de las librerías necesitadas
+
+```
+!pip install (libreria)
+```
+
+### Librerias Utilizadas
+----------------------------
+
+### Despliegue 📦
+
+_Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente del componente II para obtener los resultados._
+
           
 ## Lenguaje de Programación 🖥️
   
   `Python` 
   
-## Librerias Utilizadas
-----------------------------
-
-## Despliegue 📦
-
-_Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente del componente II para obtener los resultados._
-
-
 ## Construido con 🛠️
 
 _La herramienta utilizada para el scraping de una página web fue:_
@@ -55,15 +63,16 @@ _La herramienta utilizada para el scraping de una página web fue:_
 * [Google Colaboratory](https://colab.research.google.com/)
 * Lenguaje de Programación: [Python](https://www.python.org/)
 
-# Autores 🖋️👥
+## Autores 🖋️👥
 * *Zileidy Argüello Barreto* 
 * *Micaela Maldonado Otazo* 
 
 Estudiantes del 3er. año de la carrera Tecnologías de la Información Empresarial (UPA)
 
-# Conclusión 🏁
+## Conclusión 🏁
+________________________________
 
- ## Observaciones 🖋️❗
+## Observaciones 🖋️❗
 Fecha de creación del código: 23/06/2021
 
 Es posible que algunas características cambien conforme pasa el tiempo.
