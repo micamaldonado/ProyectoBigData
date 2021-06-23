@@ -1,8 +1,9 @@
-# TRABAJO PRÁCTICO DE BIG DATA
+#### ProyectoBigData
+# TRABAJO PRÁCTICO DE BIG DATA 🖱️
 
 El objetivo del proyecto es trabajar con grandes volúmenes de datos.
 
-## Contenido del Proyecto
+## Contenido del Proyecto 📑
 
 El trabajo práctico cuenta con 2 componentes.
 
@@ -13,6 +14,10 @@ Extracción y limpieza de datos datos almacenados a partir de menciones por hash
 #### Componente 2
 
 Realización del análisis de sentimientos de los tweets que han sido descargados.
+
+## Comenzando 🚀 
+
+_Las siguientes instrucciones permitirán que puedas acceder sin incovenientes a todos los componentes del proyecto en tu máquina local._
 
 ## Requisitos
 
