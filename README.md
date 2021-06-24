@@ -34,7 +34,7 @@ git clone (url)
 ```
 
 ### Visualización 🧐
--------------------------------------------
+![image](https://user-images.githubusercontent.com/71017838/123277093-cac49180-d4d3-11eb-8520-bc2dc3b8b351.png)
 
 ### Instalación 🔧
 
