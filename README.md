@@ -13,7 +13,7 @@ Recopilación de datos de la red social [Twitter](https://twitter.com/) utilizan
 
 **1. Extracción de datos**
 
-Obtención de una lista de las últimas menciones del hashtag #CocaCola teniendo como salida un archivo.csv para su posterior análisis.
+Obtención de una lista de las últimas menciones del hashtag #CocaCola teniendo como *primera salida un archivo (.csv)* para su posterior análisis.
 
 ### Segunda Parte: Data Analysis
 
@@ -29,7 +29,7 @@ Para el análisis de sentimientos se realizó una prueba previa entre dos algori
 
 Eliminación de Tokens no relevantes para posteriormente obtener representaciones gráficas de los resultados obtenidos del análisis (Wordcloud especialmente). 
 
-_El archivo de salida cuenta con datos limpiados y el análisis de sentimientos._
+_El segundo archivo de salida (.csv) cuenta con datos limpios y el análisis de sentimientos (puntajes de cada uno)._
  
 ## Comenzando 🚀 
 
