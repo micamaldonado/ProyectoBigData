@@ -50,7 +50,7 @@ git clone (url)
 ```
 
 ### Visualización 🧐
-![image](https://user-images.githubusercontent.com/71017838/123277093-cac49180-d4d3-11eb-8520-bc2dc3b8b351.png)
+![image](https://user-images.githubusercontent.com/71017838/123361644-7229de80-d53d-11eb-9ed9-3ad84c81a953.png)
 
 ### Instalación 🔧
 
