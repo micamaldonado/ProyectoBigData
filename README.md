@@ -19,13 +19,13 @@ Obtención de una lista de las últimas menciones del hashtag #CocaCola teniendo
 
 Análisis de sentimientos de publicaciones en redes sociales para evaluar la imagen de la empresa, cuyos resultados se visualizan a través de gráficos o wordcloud. Además, un cálculo del sentimiento promedio relacionado a las menciones.
 
-**2. Modelo de clasificación**
+**1. Modelo de clasificación**
 
 - VADER
 
 Para el análisis de sentimientos se realizó una prueba previa entre dos algoritmos, TextBlob y VADER para observar los resultados, sin embargo, se descartó el uso de TextBlob debido a que VADER muestra un mejor funcionamiento con los textos de las redes sociales y también en general, basándose en léxicos de palabras relacionadas con el sentimiento.
 
-**1. Limpieza y gráficos**
+**2. Limpieza y gráficos**
 
 Eliminación de Tokens no relevantes y representaciones gráficas de los resultados obtenidos del análisis. 
 
