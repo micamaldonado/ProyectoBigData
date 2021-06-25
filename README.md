@@ -23,11 +23,11 @@ Análisis de sentimientos de publicaciones en redes sociales para evaluar la ima
 
 - VADER
 
-Para el análisis de sentimientos se realizó una prueba previa entre dos algoritmos, TextBlob y VADER para observar los resultados, sin embargo, se descartó el uso de TextBlob debido a que VADER muestra un mejor funcionamiento con los textos de las redes sociales y también en general, basándose en léxicos de palabras relacionadas con el sentimiento.
+Para el análisis de sentimientos se realizó una prueba previa entre dos algoritmos, TextBlob y VADER para observar los resultados, sin embargo, se descartó el uso de TextBlob debido que VADER muestra un mejor funcionamiento con los textos de las redes sociales y también en general, basándose en léxicos de palabras relacionadas con el sentimiento.
 
 **2. Limpieza y gráficos**
 
-Eliminación de Tokens no relevantes para posteriormente obtener representaciones gráficas de los resultados obtenidos del análisis (Wordcloud especialmente). 
+Eliminación de Tokens no relevantes para obtener posteriormente representaciones gráficas de los resultados obtenidos del análisis (Wordcloud especialmente). 
 
 _El segundo archivo de salida (.csv) cuenta con datos limpios y el análisis de sentimientos (puntajes de cada uno)._
  
@@ -54,7 +54,7 @@ git clone (url)
 
 ### Instalación 🔧
 
-Se utiliza el siguiente comando en caso de que no se tenga alguna de las librerías necesitadas
+Se utiliza el siguiente comando en caso que no se tenga alguna de las librerías necesitadas
 
 ```
 !pip install (libreria)
