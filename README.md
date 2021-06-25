@@ -17,7 +17,7 @@ Obtención de una lista de las últimas menciones del hashtag #CocaCola teniendo
 
 ### Segunda Parte: Data Analysis
 
-Análisis de sentimientos de publicaciones en redes sociales para evaluar la imagen de la empresa, cuyos resultados se visualizan a través de gráficos o wordcloud. Además, un cálculo del sentimiento promedio relacionado a las menciones
+Análisis de sentimientos de publicaciones en redes sociales para evaluar la imagen de la empresa, cuyos resultados se visualizan a través de gráficos o wordcloud. Además, un cálculo del sentimiento promedio relacionado a las menciones.
 
 **1. Modelo de clasificación**
 
