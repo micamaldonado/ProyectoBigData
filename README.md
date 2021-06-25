@@ -9,7 +9,7 @@ El trabajo práctico cuenta con 2 partes. Este Proyecto Github contiene una sola
 
 ### Primera Parte: Data Fetching
 
-Recopilación de datos de la red social Twitter (https://twitter.com/) utilizando web scraping, la API de Twitter y el lenguaje Python.
+Recopilación de datos de la red social [Twitter](https://twitter.com/) utilizando web scraping, la API de Twitter y el lenguaje Python.
 
 **1. Extracción de datos**
 
