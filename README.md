@@ -60,14 +60,10 @@ Se utiliza el siguiente comando en caso de que no se tenga alguna de las librer�
 !pip install (libreria)
 ```
 
-### Librerias Utilizadas
-----------------------------
-
 ### Despliegue 📦
 
 _Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente del componente II para obtener los resultados._
 
-          
 ## Lenguaje de Programación 🖥️
   
   `Python` 
@@ -84,9 +80,6 @@ _La herramienta utilizada para el scraping de una página web fue:_
 * *Micaela Maldonado Otazo* 
 
 Estudiantes del 3er. año de la carrera Tecnologías de la Información Empresarial (UPA)
-
-## Conclusión 🏁
-________________________________
 
 ## Observaciones 🖋️❗
 Fecha de creación del código: 23/06/2021
