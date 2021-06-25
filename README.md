@@ -7,29 +7,29 @@ El objetivo del proyecto es trabajar con grandes volúmenes de datos con aplicab
 
 El trabajo práctico cuenta con 2 partes. Este Proyecto Github contiene una sola rama en la cual se encuentran disponibles todos los archivos necesarios para todas las partes que se mencionan a continuación.
 
-#### Primera Parte: Data Fetching
+### Primera Parte: Data Fetching
 
 Recopilación de datos de la red social Twitter (https://twitter.com/) utilizando web scraping, la API de Twitter y el lenguaje Python.
 
-*1. Extracción de datos*
+**1. Extracción de datos**
 
 Obtención de una lista de las últimas menciones del hashtag #CocaCola teniendo como salida un archivo.csv para su posterior análisis.
 
-#### Segunda Parte: Data Analysis
+### Segunda Parte: Data Analysis
 
 Análisis de sentimientos de publicaciones en redes sociales para evaluar la imagen de la empresa, cuyos resultados se visualizan a través de gráficos o wordcloud. Además, un cálculo del sentimiento promedio relacionado a las menciones
 
-*1. Modelo de clasificación*
+**1. Modelo de clasificación**
 
 - VADER
 
 Para el análisis de sentimientos se realizó una prueba previa entre dos algoritmos, TextBlob y VADER para observar los resultados, sin embargo, se descartó el uso de TextBlob debido a que VADER muestra un mejor funcionamiento con los textos de las redes sociales y también en general, basándose en léxicos de palabras relacionadas con el sentimiento.
 
-*1. Limpieza y gráficos*
+**1. Limpieza y gráficos**
 
 Eliminación de Tokens no relevantes y representaciones gráficas de los resultados obtenidos del análisis. 
 
-_El archivo de salida cuenta con datos limpiados y el análisis de sentimientos.
+_El archivo de salida cuenta con datos limpiados y el análisis de sentimientos._
  
 ## Comenzando 🚀 
 
