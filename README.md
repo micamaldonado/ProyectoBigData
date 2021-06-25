@@ -27,7 +27,7 @@ Para el análisis de sentimientos se realizó una prueba previa entre dos algori
 
 **2. Limpieza y gráficos**
 
-Eliminación de Tokens no relevantes y representaciones gráficas de los resultados obtenidos del análisis. 
+Eliminación de Tokens no relevantes para posteriormente obtener representaciones gráficas de los resultados obtenidos del análisis (Wordcloud especialmente). 
 
 _El archivo de salida cuenta con datos limpiados y el análisis de sentimientos._
  
