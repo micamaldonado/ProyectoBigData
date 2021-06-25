@@ -62,7 +62,7 @@ Se utiliza el siguiente comando en caso de que no se tenga alguna de las librer�
 
 ### Despliegue 📦
 
-_Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente del componente II para obtener los resultados._
+_Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente para obtener los resultados._
 
 ## Lenguaje de Programación 🖥️
   
