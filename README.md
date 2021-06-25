@@ -5,7 +5,7 @@ El objetivo del proyecto es trabajar con grandes volúmenes de datos con aplicab
 
 ## Contenido del Proyecto 📑
 
-El trabajo práctico cuenta con 2 partes. Este Proyecto Github contiene una sola rama en la cual se encuentran disponibles todos los archivos necesarios para todas las partes que se mencionan a continuación.
+Este proyecto alberga como archivos: el código fuente (en dos formatos: .py y .ipynb) y dos datasets. Y se divide en 2 partes:
 
 ### Primera Parte: Data Fetching
 
@@ -40,7 +40,7 @@ _Las siguientes instrucciones permitirán que puedas acceder sin incovenientes a
 Para el proyecto son necesarios los siguientes:
  
 - Una cuenta como desarrollador en Twitter para obtener las credenciales [(API Twitter)](https://developer.twitter.com/en) 
-- Un servicio cloud para los códigos, por ende no se necesita de instalación [(Google Colaboratory)](https://colab.research.google.com/)
+- Un servicio cloud para los códigos o algún IDE de tu preferencia. 
 
  ### Clonación 👥
 Una vez creada la cuenta de github se deberá clonar el proyecto utlizando la URL y el comando:
@@ -62,7 +62,7 @@ Se utiliza el siguiente comando en caso de que no se tenga alguna de las librer�
 
 ### Despliegue 📦
 
-_Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente para obtener los resultados._
+Una vez finalizada la instalación podrás darle "Ejecutar/Run" al código fuente para obtener los resultados.
 
 ## Lenguaje de Programación 🖥️
   
@@ -82,7 +82,7 @@ _La herramienta utilizada para el scraping de una página web fue:_
 Estudiantes del 3er. año de la carrera Tecnologías de la Información Empresarial (UPA)
 
 ## Observaciones 🖋️❗
-Fecha de creación del código: 23/06/2021
+Fecha de creación del código: 24/06/2021
 
 Es posible que algunas características cambien conforme pasa el tiempo.
 
