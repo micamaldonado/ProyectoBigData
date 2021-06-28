@@ -33,11 +33,11 @@ import tweepy
 import datetime
 import pandas as pd
 
-#Keys y tokens
-consumerKey = 'xM7AQuh8llzpJG7AJFdAguyQK'
-consumerSecret = '4KlatIHVig7V2utrjjRzFqQ7tFJjcWSIWJyn0B0tDcUed15sBI'
-accessToken = '1389193213899153410-PhJBp5A8CmBIdCsvIyl2i4y6kNWmnp'
-accessTokenSecret= 'vb7suuIljW8LYdw9kGJE4dWR7Pb4TpSlYHMGhpac3gGln'
+#Keys y tokens || Cargar propios keys and tokens
+consumerKey = '' 
+consumerSecret = ''
+accessToken = ''
+accessTokenSecret= ''
 
 #Proceso OAuth process | Autenticacion 
 auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
